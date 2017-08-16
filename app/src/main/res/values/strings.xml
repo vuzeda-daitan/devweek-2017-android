@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wanikani</string>
+    <string name="activity_login_api_token">API Token</string>
+    <string name="activity_login_remember_me">Remember me</string>
+    <string name="activity_login_login">Login</string>
+    <string name="activity_login_error_api_token_is_required">API Token is required.</string>
+    <string name="activity_login_invalid_api_token">Invalid API Token.</string>
+    <string name="activity_login_error_internet_connection">Check your internet connection and try again.</string>
+    <string name="activity_main_logout">Logout</string>
+    <string name="fragment_kanji_list_title">Kanji</string>
+    <string name="fragment_radical_list_title">Radical</string>
+</resources>
